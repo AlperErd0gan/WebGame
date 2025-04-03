@@ -2,7 +2,6 @@
 
 Evade Bombs is a fun arcade-style car game built with **Pygame**. Navigate your car on a scrolling road while avoiding falling bombs. The game becomes increasingly difficult the longer you survive!
 
-![Game Preview](preview.png) *(Add your own screenshot here)*
 
 ---
 
