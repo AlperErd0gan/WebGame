@@ -54,7 +54,7 @@ python main.py
 - Note: The game uses asyncio, which requires Python 3.7 or newer.
 
 ## Project Structure
-
+```bash
 .
 ├── main.py             # Main game script
 ├── car.png             # Player's car image
@@ -62,7 +62,7 @@ python main.py
 ├── road.png            # Background road image
 ├── Pixeltype.ttf       # Custom font
 └── README.md           # This file
-
+```
 ## 📝 License
 This project is open-source and free to use for learning and development purposes. Attribution is appreciated!
 
